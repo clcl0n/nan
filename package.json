@@ -1,0 +1,17 @@
+{
+  "name": "nan",
+  "version": "0.0.1",
+  "description": "Modular JavaScript utility library.",
+  "main": "nan.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clcl0n/nan.git"
+  },
+  "author": "Patrik Frantisek Balaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clcl0n/nan/issues"
+  }
+}
