@@ -1,1 +1,1 @@
-export { DateToStringDDMMYYYY, DateToStringMMDDYYYY, DateToStringYYYYMMDD } from './dateFormating';
+export { DateToStringDDMMYYYY, DateToStringMMDDYYYY, DateToStringYYYYMMDD } from './dateFormatting';
