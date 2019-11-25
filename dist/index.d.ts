@@ -1,2 +1,2 @@
-export { chunk } from './array';
+export { chunk } from './chunk';
 export { DateToStringDDMMYYYY, DateToStringMMDDYYYY, DateToStringYYYYMMDD } from './dateFormatting';
