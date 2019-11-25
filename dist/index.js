@@ -2,6 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var chunk_1 = require("./chunk");
 exports.chunk = chunk_1.chunk;
+var compact_1 = require("./compact");
+exports.compact = compact_1.compact;
 var dateFormatting_1 = require("./dateFormatting");
 exports.DateToStringDDMMYYYY = dateFormatting_1.DateToStringDDMMYYYY;
 exports.DateToStringMMDDYYYY = dateFormatting_1.DateToStringMMDDYYYY;
